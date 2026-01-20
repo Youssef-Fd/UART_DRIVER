@@ -1,0 +1,14 @@
+# STM32CubeIDE
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+*.log
+
+# CubeMX
+*.mxproject
+
+# OS
+.DS_Store
+Thumbs.db
